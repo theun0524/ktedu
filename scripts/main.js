@@ -6,7 +6,7 @@ button.addEventListener('click', function(e) {
   document.getElementById('token2').value = '%EC%9E%A5%ED%9D%AC%EC%A4%80';
   //form.action="https://st-mooc-pos.xinics.kr/imoove-auth-client/km-link-integrated";
   //form.action="https://www.postechx.kr/imoove-auth-client/km-link-integrated";
-  form.action="http://kt.dev.smartlearn.kr";
+  form.action="https://kt.dev.smartlearn.kr";
   form.target="_blank";
   form.submit();
 });
